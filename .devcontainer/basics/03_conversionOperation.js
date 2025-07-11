@@ -15,11 +15,22 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 //number to string example
 let someNumber = 33;
 let stringNumber = String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 //number to boolean
 let number = 10;
 let numberBoolean = Boolean(number);
-console.log(numberBoolean);
-console.log(typeof numberBoolean);
+// console.log(numberBoolean);
+// console.log(typeof numberBoolean);
+
+/////Operarions//
+let value =3 ;
+let negValue = -value;
+//console.log(negValue);
+
+let str1 = "Gayatri";
+let str2 = " Ladhake";
+let str3 = str1 + str2;
+console.log(str3);
+
